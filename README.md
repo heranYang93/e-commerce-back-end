@@ -4,7 +4,9 @@
   <p align="center">
     This app is based on Express.js API and use Sequelize to interact with a MySQL database.
     <br />
-    <a href="">View Demo</a>
+    <a href="https://github.com/heranYang93/e-commerce-back-end/blob/main/Demo/demo_categories.mp4">View Demo Part1</a>
+    ·
+    <a href="https://github.com/heranYang93/e-commerce-back-end/blob/main/Demo/demo_tags%26products.mp4">View Demo Part2</a>
     ·
     <a href="https://github.com/heranyang93/e-commerce-back-end/issues">Report Bug</a>
     ·
